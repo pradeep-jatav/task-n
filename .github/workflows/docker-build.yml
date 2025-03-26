@@ -67,4 +67,5 @@ jobs:
           echo " Frontend pushed to: $ECR_IMAGE"
           echo " Frontend pushed to: $GHCR_IMAGE"
 
+
           
